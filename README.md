@@ -1,7 +1,2 @@
 # simpleserachengines
-simplfied search engines
-
-
-search engines simplfied:
-google
-duckduckgo
+over simplified search engines
